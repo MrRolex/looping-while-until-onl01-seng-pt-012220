@@ -1,5 +1,5 @@
 def using_while
-  phrase = 6
+  phrase = 0
   until phrase < 10
   puts "Wingardium Leviosa"
   phrase +=1
