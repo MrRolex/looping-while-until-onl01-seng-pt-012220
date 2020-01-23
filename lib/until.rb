@@ -3,6 +3,5 @@ def using_until
   until phrase == 10
   puts "Wingardium Leviosa"
   phrase +=1
-  
-    end
+   end
 end
