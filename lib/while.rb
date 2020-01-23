@@ -3,6 +3,5 @@ def using_while
   until phrase < 10
   puts "Wingardium Leviosa"
   phrase +=1
-  
    end
 end
