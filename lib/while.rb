@@ -4,4 +4,5 @@ def using_while
   puts "Wingardium Leviosa"
   phrase += 1
   
+   end
 end
